@@ -1,0 +1,18 @@
+{
+  "name": "virtual-machine",
+  "version": "1.0.0",
+  "description": "",
+  "main": "fillerOPCUA.js",
+  "dependencies": {
+    "node-opcua": "0.0.52",
+    "underscore": "^1.8.3",
+    "usage": "^0.7.1",
+    "yargs": "^4.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
